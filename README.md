@@ -1,6 +1,6 @@
 ### Hi there! I'm Julyane Oliveira, nice to meet you 🐱‍💻
 
-- 🌱 I’m currently learning NodeJS and React
+- 🌱 I’m currently learning NestJS, Java and React
 - 😄 Pronouns: She/Her 
 
 <div>
